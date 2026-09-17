@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mkf8vh8.github.io/sitemap.xml
